@@ -517,6 +517,8 @@ const ToolboxMessageTree chemistryMolarMassesByNumber[] = {
   ToolboxMessageTree::Leaf(I18n::Message::NumberElementOg, I18n::Message::ElementOgMass, false, I18n::Message::ElementOgMass),
   ToolboxMessageTree::Leaf(I18n::Message::NumberElementUue, I18n::Message::ElementUueMass, false, I18n::Message::ElementUueMass),
   ToolboxMessageTree::Leaf(I18n::Message::NumberElementUbn, I18n::Message::ElementUbnMass, false, I18n::Message::ElementUbnMass)
+  ToolboxMessageTree::Leaf(I18n::Message::NumberElementTri, I18n::Message::ElementTriMass, false, I18n::Message::ElementTriMass)
+
 };
 
 const ToolboxMessageTree chemistryMolarMassesByAlpha[] = {
